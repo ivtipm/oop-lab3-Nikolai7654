@@ -1,0 +1,49 @@
+E:\прога\C#\Chat Bot\Chat Bot\bin\Debug\Chat Bot.exe.config
+E:\прога\C#\Chat Bot\Chat Bot\bin\Debug\Chat Bot.exe
+E:\прога\C#\Chat Bot\Chat Bot\bin\Debug\Chat Bot.pdb
+E:\прога\C#\Chat Bot\Chat Bot\obj\Debug\Chat Bot.csprojAssemblyReference.cache
+E:\прога\C#\Chat Bot\Chat Bot\obj\Debug\Chat_Bot.LoginForm.resources
+E:\прога\C#\Chat Bot\Chat Bot\obj\Debug\Chat_Bot.Properties.Resources.resources
+E:\прога\C#\Chat Bot\Chat Bot\obj\Debug\Chat Bot.csproj.GenerateResource.cache
+E:\прога\C#\Chat Bot\Chat Bot\obj\Debug\Chat Bot.exe
+E:\прога\C#\Chat Bot\Chat Bot\obj\Debug\Chat Bot.pdb
+E:\прога\C#\Chat Bot\Chat Bot\obj\Debug\Chat_Bot.ChatForm.resources
+C:\Users\tsepl\Downloads\Chat Bot\Chat Bot\Chat Bot\bin\Debug\Chat Bot.exe.config
+C:\Users\tsepl\Downloads\Chat Bot\Chat Bot\Chat Bot\bin\Debug\Chat Bot.exe
+C:\Users\tsepl\Downloads\Chat Bot\Chat Bot\Chat Bot\bin\Debug\Chat Bot.pdb
+C:\Users\tsepl\Downloads\Chat Bot\Chat Bot\Chat Bot\obj\Debug\Chat Bot.csprojAssemblyReference.cache
+C:\Users\tsepl\Downloads\Chat Bot\Chat Bot\Chat Bot\obj\Debug\Chat_Bot.ChatForm.resources
+C:\Users\tsepl\Downloads\Chat Bot\Chat Bot\Chat Bot\obj\Debug\Chat_Bot.LoginForm.resources
+C:\Users\tsepl\Downloads\Chat Bot\Chat Bot\Chat Bot\obj\Debug\Chat_Bot.Properties.Resources.resources
+C:\Users\tsepl\Downloads\Chat Bot\Chat Bot\Chat Bot\obj\Debug\Chat Bot.csproj.GenerateResource.cache
+C:\Users\tsepl\Downloads\Chat Bot\Chat Bot\Chat Bot\obj\Debug\Chat Bot.exe
+C:\Users\tsepl\Downloads\Chat Bot\Chat Bot\Chat Bot\obj\Debug\Chat Bot.pdb
+E:\прога\C#\Chat Bot\Chat Bot\bin\Debug\Newtonsoft.Json.dll
+E:\прога\C#\Chat Bot\Chat Bot\bin\Debug\Newtonsoft.Json.xml
+E:\прога\C#\Chat Bot\Chat Bot\obj\Debug\Chat Bot.csproj.CopyComplete
+C:\Users\Николай\Desktop\ChatBot-master\Chat Bot\bin\Debug\Chat Bot.exe.config
+C:\Users\Николай\Desktop\ChatBot-master\Chat Bot\bin\Debug\Chat Bot.exe
+C:\Users\Николай\Desktop\ChatBot-master\Chat Bot\bin\Debug\Chat Bot.pdb
+C:\Users\Николай\Desktop\ChatBot-master\Chat Bot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Николай\Desktop\ChatBot-master\Chat Bot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Николай\Desktop\ChatBot-master\Chat Bot\obj\Debug\Chat Bot.csprojAssemblyReference.cache
+C:\Users\Николай\Desktop\ChatBot-master\Chat Bot\obj\Debug\Chat_Bot.ChatForm.resources
+C:\Users\Николай\Desktop\ChatBot-master\Chat Bot\obj\Debug\Chat_Bot.LoginForm.resources
+C:\Users\Николай\Desktop\ChatBot-master\Chat Bot\obj\Debug\Chat_Bot.Properties.Resources.resources
+C:\Users\Николай\Desktop\ChatBot-master\Chat Bot\obj\Debug\Chat Bot.csproj.GenerateResource.cache
+C:\Users\Николай\Desktop\ChatBot-master\Chat Bot\obj\Debug\Chat Bot.csproj.CopyComplete
+C:\Users\Николай\Desktop\ChatBot-master\Chat Bot\obj\Debug\Chat Bot.exe
+C:\Users\Николай\Desktop\ChatBot-master\Chat Bot\obj\Debug\Chat Bot.pdb
+A:\ChatBot-master\Chat Bot\bin\Debug\Chat Bot.exe.config
+A:\ChatBot-master\Chat Bot\bin\Debug\Chat Bot.exe
+A:\ChatBot-master\Chat Bot\bin\Debug\Chat Bot.pdb
+A:\ChatBot-master\Chat Bot\bin\Debug\Newtonsoft.Json.dll
+A:\ChatBot-master\Chat Bot\bin\Debug\Newtonsoft.Json.xml
+A:\ChatBot-master\Chat Bot\obj\Debug\Chat Bot.csprojAssemblyReference.cache
+A:\ChatBot-master\Chat Bot\obj\Debug\Chat_Bot.ChatForm.resources
+A:\ChatBot-master\Chat Bot\obj\Debug\Chat_Bot.LoginForm.resources
+A:\ChatBot-master\Chat Bot\obj\Debug\Chat_Bot.Properties.Resources.resources
+A:\ChatBot-master\Chat Bot\obj\Debug\Chat Bot.csproj.GenerateResource.cache
+A:\ChatBot-master\Chat Bot\obj\Debug\Chat Bot.csproj.CopyComplete
+A:\ChatBot-master\Chat Bot\obj\Debug\Chat Bot.exe
+A:\ChatBot-master\Chat Bot\obj\Debug\Chat Bot.pdb
